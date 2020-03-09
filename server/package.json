@@ -1,0 +1,30 @@
+{
+  "name": "web-push-notification",
+  "version": "1.0.0",
+  "description": "a simple web push notification ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajimae/WebPushNotification.git"
+  },
+  "keywords": [
+    "web",
+    "push",
+    "notification"
+  ],
+  "author": "ajimae",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajimae/WebPushNotification/issues"
+  },
+  "homepage": "https://github.com/ajimae/WebPushNotification#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "web-push": "^3.4.3"
+  }
+}
