@@ -24,7 +24,7 @@
   "homepage": "https://github.com/ajimae/WebPushNotification#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "web-push": "^3.4.3"
   }
 }
